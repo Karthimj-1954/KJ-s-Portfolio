@@ -1,117 +1,135 @@
 # 👋 Hi, I'm Karthik Mohan J
 
-🎓 **Electrical & Computer Engineering Student (2022–2026)**  
-💡 Passionate about **IoT, Machine Learning & Full Stack Development**  
+<img src="profile.jpg" alt="Karthik Mohan J" width="180" style="border-radius:50%;" />
+
+🎓 **Electrical & Computer Engineering Student**  
+💡 **ML Enthusiast | Full Stack Learner | IoT Developer**  
 📍 Thiruvananthapuram, Kerala  
 
 ---
 
 ## 🚀 About Me
 
-Engineering student with strong foundations in **Python, web technologies, and data analysis**.  
-Hands-on experience in **machine learning-based anomaly detection, embedded systems, and full stack development** through academic and training projects.
+Engineering student passionate about **Machine Learning, Full Stack Web Development, and Embedded Systems**.  
 
-🔍 Interested in building **real-world, data-driven applications** and smart systems.
+I build **real-world intelligent systems** using IoT, data analysis, and modern web technologies.
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Live Portfolio:** *(Add your deployed link here)*  
+📁 Built using: `HTML + CSS + JavaScript`  
+✨ Features:
+- Dark/Light theme toggle  
+- Animated typing effect  
+- Responsive design  
+- Smooth UI animations  
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python  
-- **Web Technologies:** HTML, Bootstrap, Django (Basic)  
-- **Data Analysis:** Data preprocessing, basic analytics  
-- **Machine Learning:**  
-  - Supervised Learning  
-  - Random Forest  
-  - Gradient Boosting  
-  - Neural Networks  
-- **Tools:** Microsoft Word, PowerPoint  
-- **Other Skills:** Data entry, computer operations  
+### 💻 Programming
+- Python  
+
+### 🌐 Web Development
+- HTML, Bootstrap, Django (Basic)  
+
+### 🤖 Machine Learning
+- Random Forest  
+- Gradient Boosting  
+- Neural Networks  
+- Supervised Learning  
+
+### 📊 Data Analysis
+- Data preprocessing  
+- Basic analytics  
+- Feature handling  
+
+### 🔌 Embedded Systems
+- Arduino  
+- DHT11 Sensor  
+- LCD Display  
+- RGB LED + Buzzer  
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology**  
-Electrical and Computer Engineering  
+**B.Tech – Electrical & Computer Engineering**  
 Mar Baselios College of Engineering and Technology, KTU  
-📅 2022 – 2026 (Currently Pursuing)
+📅 2022 – 2026 (Pursuing)  
 
 ---
 
 ## 💼 Internship
 
 ### Full Stack Web Development Training
-- Learning **frontend & backend development**
-- Working with **databases and modern frameworks**
-- Hands-on **project-based learning**
-- Building **responsive and scalable web applications**
+- Frontend & Backend Development  
+- Database Management  
+- Modern Frameworks  
+- Real-time Project Experience  
 
 ---
 
 ## 📂 Projects
 
 ### 🔧 Industrial IoT with ML (Final Year Project)
-- Developed **ML-based anomaly detection system** for CNC machines  
-- Used **Random Forest, Neural Networks, Gradient Boosting**  
-- Achieved **~94.47% accuracy**  
-- Enables **predictive maintenance & early fault detection**
+- ML-based anomaly detection for CNC machines  
+- Used Random Forest, Neural Network, Gradient Boosting  
+- Achieved **94.47% accuracy**  
+- Enables predictive maintenance  
 
 ---
 
-### 📦 Smart Vendor & Inventory Analytics System
-- Built using **Django**
-- Manages **products, stock, and sales**
-- Implemented **low-stock alerts**
-- Improves efficiency for small businesses
+### 📦 Smart Vendor & Inventory Analytics
+- Django-based web application  
+- Product & stock management  
+- Low-stock alert system  
 
 ---
 
-### 🌡️ Smart RGB Temperature Monitoring System
-📅 May 2025  
-- Arduino + **DHT11 sensor**
-- RGB LED indicators (Normal / Warning / Critical)
-- Buzzer alerts + LCD display
-- Real-time temperature monitoring system
+### 🌡️ Smart RGB Temperature Monitoring
+- Arduino + DHT11 sensor  
+- RGB LED status indicators  
+- Buzzer alerts + LCD display  
+- Real-time monitoring  
 
 ---
 
-### 🏏 Gully Cricket Scorecard (Hobby Project)
-- Built using **HTML, CSS, JavaScript**
-- Real-time **ball-by-ball scoring**
-- Stored data using **localStorage**
-- Features:
-  - Match history
-  - Undo option
-  - Light/Dark mode
-  - Responsive UI
-- ⚡ Fully offline SPA (No frameworks)
+### 🏏 Gully Cricket Scorecard
+- HTML, CSS, JavaScript  
+- Ball-by-ball scoring system  
+- LocalStorage data persistence  
+- Light/Dark theme + responsive UI  
+- Fully offline SPA  
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: karthikmohanj@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/karthik-mohan-j-29b39ab1  
-💻 GitHub: https://github.com/royalking8055  
+💻 GitHub: https://github.com/Karthimj-1954  
 
 ---
 
 ## 🗣️ Languages
 
 - English – Professional  
-- Tamil – Basic  
 - Malayalam – Native  
+- Tamil – Basic  
 
 ---
 
 ## ⚡ GitHub Stats
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=royalking8055&show_icons=true&theme=tokyonight)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthimj-1954&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 Top Skills Focus
+## 🔥 Profile Tagline
 
 ```text
-IoT | Machine Learning | Web Development | Data Analysis
+IoT | Machine Learning | Web Development | Embedded Systems
