@@ -14,20 +14,6 @@ Engineering student passionate about **Machine Learning, Full Stack Web Developm
 
 I build **real-world intelligent systems** using IoT, data analysis, and modern web technologies.
 
----
-
-## 🌐 Portfolio
-
-🔗 **Live Portfolio:** *(Add your deployed link here)*  
-📁 Built using: `HTML + CSS + JavaScript`  
-✨ Features:
-- Dark/Light theme toggle  
-- Animated typing effect  
-- Responsive design  
-- Smooth UI animations  
-
----
-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
