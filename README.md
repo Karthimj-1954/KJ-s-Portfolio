@@ -49,9 +49,9 @@ Mar Baselios College of Engineering and Technology, KTU
 
 ---
 
-## 💼 Internship
+## 💼 Internship Course(Self Learning)
 
-### Full Stack Web Development Training
+### Full Stack Web Development
 - Frontend & Backend Development  
 - Database Management  
 - Modern Frameworks  
