@@ -45,7 +45,7 @@ I build **real-world intelligent systems** using IoT, data analysis, and modern 
 
 **B.Tech – Electrical & Computer Engineering**  
 Mar Baselios College of Engineering and Technology, KTU  
-📅 2022 – 2026 (Pursuing)  
+📅 2022 – 2026 (Completed)  
 
 
 ## 📫 Connect With Me
