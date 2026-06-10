@@ -51,5 +51,5 @@ Mar Baselios College of Engineering and Technology, KTU
 ## 📫 Connect With Me
 
 📧 Email: karthikmohanj@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/karthik-mohan-j-29b39ab1  
+🔗 LinkedIn: https://www.linkedin.com/in/karthikmohanj1954/  
 💻 GitHub: https://github.com/Karthimj-1954  
